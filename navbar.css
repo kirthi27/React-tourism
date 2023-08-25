@@ -1,0 +1,27 @@
+.navbar1{
+    margin:0;
+    
+    display:flex;
+    justify-content:flex-start;
+    align-items:end;
+    background-color: rgb(218, 202, 202);
+}
+ .links{
+    display:flex;
+    justify-content:right;
+    list-style: none;
+    margin: 0;
+    background-color: rgb(209, 200, 200);
+    color:aliceblue;
+} 
+
+.nav-links{
+    display:flex;
+    list-style:none;
+    justify-content:none;
+    align-items:left;
+    margin:0;
+    background-color: rgb(209, 200, 200);
+    color:antiquewhite;
+    
+}
